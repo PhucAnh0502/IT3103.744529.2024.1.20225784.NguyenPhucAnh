@@ -11,5 +11,6 @@ public class InputFromKeyboard {
         double dHeight = keyboard.nextDouble();
         System.out.println("Nguyen Phuc Anh - 20225784 : Mrs/Mr. " + strName + ", " + iAge + " years old. " +
                             "Your height is " + dHeight + ".");
+        keyboard.close();
     }
 }
