@@ -26,7 +26,7 @@ public class DigitalVideoDisc {
         return cost;
     }
 
-    //Constructor Nguyen Ohuc Anh 20225784
+    //Constructor Nguyen Phuc Anh 20225784
 
     public DigitalVideoDisc(String title) {
         this.title = title;

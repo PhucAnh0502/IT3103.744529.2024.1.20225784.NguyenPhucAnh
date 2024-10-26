@@ -24,8 +24,8 @@ public class Cart {
                 System.out.println("Nguyen Phuc Anh - 20225784 - Removed " + disc.getTitle() + " from cart");
                 return;
             }
-            System.out.println("Nguyen Phuc Anh - 20225784 - " + disc.getTitle() + " not found in cart");
         }
+        System.out.println("Nguyen Phuc Anh - 20225784 - " + disc.getTitle() + " not found in cart");
     }
 
     public float totalCost() {
